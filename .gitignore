@@ -3,6 +3,7 @@ src/html/images/
 src/html/fonts/
 certs
 sync
+data
 
 lib-cov
 *.seed
